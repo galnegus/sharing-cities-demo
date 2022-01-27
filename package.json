@@ -17,7 +17,7 @@
     "react-helmet": "^6.0.0-beta",
     "react-map-gl": "^5.1.2",
     "react-scripts": "3.2.0",
-    "three": "^0.110.0"
+    "three": "^0.137.0"
   },
   "scripts": {
     "predeploy": "npm run build",
